@@ -1,5 +1,2 @@
 # hello-word
-test
-adka 
-asdsfkshfka
-safkkskaal
+自学教程
